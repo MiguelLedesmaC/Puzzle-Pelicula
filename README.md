@@ -11,7 +11,7 @@ Utilizando HTML CSS y Javascript, con drag and drop me cree este pequeño puzzle
 
 
 ## Ver ejemplo en vivo
-✔️[ENLACEGITHUBPAGES](ENLACEGITHUBPAGES)
+✔️[Demo](https://miguelledesmac.github.io/Puzzle-Pelicula/)
 
 ## Instalacion
 Este proyecto no necesita instalacion. simplemente abre la carpeta o haz doble click en el .html
